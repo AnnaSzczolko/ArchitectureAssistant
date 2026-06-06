@@ -1,3 +1,8 @@
+https://architectureassistant.onrender.com/parcels
+
+https://architecture-assistant-ecru.vercel.app/
+
+
 # Project Overview
 
 The application helps architects and developers quickly assess early-stage building concepts by extracting structured requirements from natural language descriptions and validating them against parcel constraints using a rule-based engine, with AI assisting in interpretation and explanation.
