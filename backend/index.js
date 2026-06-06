@@ -9,7 +9,13 @@ const analysisRoutes = require('./routes/analysis')
 const aiRoutes = require('./routes/ai') 
 
 app.use(express.json());
-app.use(cors());
+// app.use(cors());
+app.use(cors({
+  origin: [
+    "http://localhost:5173",
+    "https://architecture-assistant-ugyb.vercel.app"
+  ]
+}));
 app.use("/parcels", parcelsRoutes);
 app.use("/projects", projectsRoutes);
 app.use("/analysis", analysisRoutes);
