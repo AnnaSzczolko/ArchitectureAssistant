@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Działka Poznań - Strzeszyn",
+    "area": 950,
+    "maxHeight": 10,
+    "maxFloors": 2,
+    "maxCoverage": 35,
+    "buildingType": "single-family house"
+  },
+  {
+    "id": 2,
+    "name": "Działka Kraków - Dębniki",
+    "area": 1200,
+    "maxHeight": 12,
+    "maxFloors": 3,
+    "maxCoverage": 40,
+    "buildingType": "semi-detached house"
+  },
+  {
+    "id": 3,
+    "name": "Działka Warszawa - Wawer",
+    "area": 1500,
+    "maxHeight": 11,
+    "maxFloors": 2,
+    "maxCoverage": 30,
+    "buildingType": "single-family house"
+  },
+  {
+    "id": 4,
+    "name": "Działka Gdańsk - Osowa",
+    "area": 1100,
+    "maxHeight": 10,
+    "maxFloors": 2,
+    "maxCoverage": 35,
+    "buildingType": "single-family house"
+  },
+  {
+    "id": 5,
+    "name": "Działka Wrocław - Krzyki",
+    "area": 1800,
+    "maxHeight": 14,
+    "maxFloors": 3,
+    "maxCoverage": 45,
+    "buildingType": "multi-family"
+  },
+  {
+    "id": 6,
+    "name": "Działka Poznań - Junikowo",
+    "area": 800,
+    "maxHeight": 9,
+    "maxFloors": 2,
+    "maxCoverage": 30,
+    "buildingType": "single-family house"
+  },
+  {
+    "id": 7,
+    "name": "Działka Łódź - Widzew",
+    "area": 2000,
+    "maxHeight": 15,
+    "maxFloors": 3,
+    "maxCoverage": 50,
+    "buildingType": "service building"
+  },
+  {
+    "id": 8,
+    "name": "Działka Szczecin - Pogodno",
+    "area": 1300,
+    "maxHeight": 11,
+    "maxFloors": 2,
+    "maxCoverage": 35,
+    "buildingType": "single-family house"
+  },
+  {
+    "id": 9,
+    "name": "Działka Katowice - Brynów",
+    "area": 1600,
+    "maxHeight": 13,
+    "maxFloors": 3,
+    "maxCoverage": 40,
+    "buildingType": "semi-detached house"
+  },
+  {
+    "id": 10,
+    "name": "Działka Lublin - Sławin",
+    "area": 1400,
+    "maxHeight": 12,
+    "maxFloors": 2,
+    "maxCoverage": 38,
+    "buildingType": "single-family house"
+  }
+]

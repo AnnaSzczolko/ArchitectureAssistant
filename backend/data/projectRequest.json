@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "description": "Jako inwestor planuję budowę domu jednorodzinnego. Budynek powinien mieć maksymalnie 2 kondygnacje i około 160–180 m² powierzchni użytkowej. Zależy mi na nowoczesnej bryle i energooszczędnych rozwiązaniach."
+  },
+  {
+    "id": 2,
+    "description": "Szukam możliwości realizacji bliźniaka. Każda część powinna mieć 2 kondygnacje i około 120 m² powierzchni. Inwestycja ma być przeznaczona pod wynajem długoterminowy."
+  },
+  {
+    "id": 3,
+    "description": "Planuję budowę budynku usługowego. Obiekt powinien mieć 3 kondygnacje i około 900 m² powierzchni użytkowej. W parterze przewiduję lokale handlowe, a wyżej biura."
+  },
+  {
+    "id": 4,
+    "description": "Rozważam budowę domu jednorodzinnego z poddaszem użytkowym. Budynek ma mieć maksymalnie 2 kondygnacje i około 140 m² powierzchni. Zależy mi na klasycznej architekturze i garażu dwustanowiskowym."
+  },
+  {
+    "id": 5,
+    "description": "Chciałbym zrealizować niewielki budynek wielorodzinny na 6–8 mieszkań. Obiekt powinien mieć 3 kondygnacje i około 600 m² powierzchni całkowitej. Inwestycja ma być skierowana do rynku najmu."
+  },
+  {
+    "id": 6,
+    "description": "Planowana jest budowa bliźniaka. Każdy segment powinien mieć 2 kondygnacje i około 130–150 m² powierzchni. Ważne są duże ogródki i energooszczędność."
+  },
+  {
+    "id": 7,
+    "description": "Chcę zrealizować budynek usługowo-biurowy. Obiekt powinien mieć 4 kondygnacje i około 1200 m² powierzchni. Parter przeznaczony na usługi, reszta na biura."
+  },
+  {
+    "id": 8,
+    "description": "Planuję budowę domu jednorodzinnego dla rodziny. Budynek ma mieć 2 kondygnacje i około 150 m² powierzchni użytkowej. Zależy mi na dużym salonie i otwartej kuchni."
+  },
+  {
+    "id": 9,
+    "description": "Interesuje mnie budowa małego budynku wielorodzinnego. Obiekt powinien mieć 3 kondygnacje i około 700 m² powierzchni. Planowanych jest około 10 mieszkań."
+  },
+  {
+    "id": 10,
+    "description": "Chciałbym wybudować dom jednorodzinny parterowy z możliwością adaptacji poddasza. Maksymalnie 2 kondygnacje i około 130 m² powierzchni. Projekt powinien być prosty i ekonomiczny."
+  },
+  {
+    "id": 11,
+    "description": "Planowana inwestycja to bliźniak. Każda część ma mieć 2 kondygnacje i około 140 m² powierzchni. Budynek ma być nowoczesny i energooszczędny."
+  },
+  {
+    "id": 12,
+    "description": "Szukam możliwości budowy budynku usługowego pod handel i gastronomię. Obiekt powinien mieć 2–3 kondygnacje i około 800 m² powierzchni."
+  },
+  {
+    "id": 13,
+    "description": "Planuję budowę domu jednorodzinnego w stylu minimalistycznym. Budynek ma mieć 2 kondygnacje i około 170 m² powierzchni. Zależy mi na dużych przeszkleniach i tarasie."
+  },
+  {
+    "id": 14,
+    "description": "Chciałbym zrealizować mały budynek wielorodzinny z 12 mieszkaniami. Obiekt powinien mieć 3 kondygnacje i około 850 m² powierzchni. Inwestycja nastawiona na wynajem."
+  },
+  {
+    "id": 15,
+    "description": "Planowana jest budowa bliźniaka. Każdy segment powinien mieć 2 kondygnacje i około 125 m² powierzchni. Ważne są funkcjonalne układy mieszkań."
+  },
+  {
+    "id": 16,
+    "description": "Chcę wybudować budynek usługowy pod małe biura i coworking. Obiekt ma mieć 3 kondygnacje i około 1000 m² powierzchni. Lokalizacja nie jest jeszcze określona."
+  },
+  {
+    "id": 17,
+    "description": "Planuję budowę domu jednorodzinnego z garażem i ogrodem zimowym. Budynek powinien mieć 2 kondygnacje i około 180 m² powierzchni. Zależy mi na wysokim standardzie wykończenia."
+  },
+  {
+    "id": 18,
+    "description": "Rozważam budowę niewielkiego budynku wielorodzinnego na wynajem. Obiekt ma mieć 3 kondygnacje i około 650 m² powierzchni. Planowanych jest 8–10 mieszkań."
+  },
+  {
+    "id": 19,
+    "description": "Chciałbym zrealizować bliźniak. Każdy segment ma mieć 2 kondygnacje i około 150 m² powierzchni. Projekt powinien być nowoczesny i funkcjonalny."
+  },
+  {
+    "id": 20,
+    "description": "Planowana inwestycja to budynek usługowo-mieszkalny. Obiekt powinien mieć 4 kondygnacje i około 1100 m² powierzchni. Parter przeznaczony na usługi, pozostałe piętra na mieszkania."
+  }
+]
