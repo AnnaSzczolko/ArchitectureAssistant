@@ -8,13 +8,8 @@ const analysisRoutes = require('./routes/analysis')
 const aiRoutes = require('./routes/ai') 
 
 const app = express();
-// app.use(cors());
-app.use(cors({
-    origin: [
-        "http://localhost:5173",
-        "https://architecture-assistant-ugyb.vercel.app"
-    ]
-}));
+app.use(cors());
+
 app.use(express.json());
 app.use("/parcels", parcelsRoutes);
 app.use("/projects", projectsRoutes);
@@ -22,8 +17,7 @@ app.use("/analysis", analysisRoutes);
 app.use("/ai", aiRoutes);
 
 
-// const PORT = process.env.PORT || 3000;
-// app.listen(PORT, () => {
-//   console.log(`Server running on http://localhost:${PORT}`);
-// });
-module.exports = app;
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => {
+  console.log(`Server running on http://localhost:${PORT}`);
+});
