@@ -5,6 +5,7 @@ const loadParcels = () => {
 	return JSON.parse(
 		fs.readFileSync(
 			path.join(__dirname, '../data/parcels.json'),
+			// path.resolve(process.cwd(), 'data/parcels.json'),
 			'utf-8'
 		)
 	)

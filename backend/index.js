@@ -1,6 +1,5 @@
 const express = require("express");
 const cors = require('cors')
-const app = express();
 require("dotenv").config();
 
 const parcelsRoutes= require('./routes/parcels')
@@ -8,14 +7,15 @@ const projectsRoutes = require('./routes/projects')
 const analysisRoutes = require('./routes/analysis')
 const aiRoutes = require('./routes/ai') 
 
-app.use(express.json());
+const app = express();
 // app.use(cors());
 app.use(cors({
-  origin: [
-    "http://localhost:5173",
-    "https://architecture-assistant-ugyb.vercel.app"
-  ]
+    origin: [
+        "http://localhost:5173",
+        "https://architecture-assistant-ugyb.vercel.app"
+    ]
 }));
+app.use(express.json());
 app.use("/parcels", parcelsRoutes);
 app.use("/projects", projectsRoutes);
 app.use("/analysis", analysisRoutes);
