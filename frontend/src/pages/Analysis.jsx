@@ -47,6 +47,7 @@ export default function Analysis() {
 			setResult(data)
 		} catch (error) {
 			console.error(error)
+			alert(error.message)
 		} finally {
 			setLoading(false)
 		}
@@ -107,7 +108,7 @@ export default function Analysis() {
 				{loading ? 'Analyzing...' : 'Run AI Analysis'}
 			</button>
 
-			{result && !loading && <ResultPanel result={result} statusInfo={statusInfo} />}
+			{result && statusInfo && !loading && <ResultPanel result={result} statusInfo={statusInfo} />}
 
 			<Link to="/" className="back-link">
 				← Back to Dashboard

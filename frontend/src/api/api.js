@@ -18,8 +18,11 @@ export const analyze = async (parcelId, requestId) => {
 		body: JSON.stringify({ parcelId, requestId }),
 	})
 
-	const data = await res.json()
-	console.log('ANALYSIS RESPONSE:', data)
+		const data = await res.json()
 
-	return res.json()
+	if (!res.ok) {
+		throw new Error(data.error || 'Analysis failed')
+	}
+
+	return data
 }
