@@ -1,4 +1,5 @@
-const BASE = "http://localhost:3000";
+// const BASE = "http://localhost:3000";
+const BASE = "https://architectureassistant.onrender.com";
 
 export const getParcels = async () => {
   const res = await fetch(`${BASE}/parcels`);
